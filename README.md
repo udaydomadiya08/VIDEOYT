@@ -6,4 +6,20 @@ there are two main files:
   
   upload.py helps in uploading videos created
 
+what to do:
+
+after cloning:
+
+      source venv/bin/activate
+
+then:
+
+      python imgvid.py
+
+then:
+
+      python upshorts.py
+
+remember api keys and file path u need to manage as per your system, i will release universal file path and api keys version of this later
+
 
